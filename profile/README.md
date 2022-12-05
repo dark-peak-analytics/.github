@@ -42,7 +42,8 @@ Interested in collaborating on a project with us, contact us via [email](contact
 |Socioeconomic inequalities in distance to and participation in a community-based running and walking activity: a longitudinal ecological study of parkrun 2010 to 2019 |RA Smith, PP Schneider, R Cosulich, H Quirk, AM Bullas, SJ Haake, ...  |Health & place                    | 2021|         3|
 |The price of precision: trade-offs between usability and validity in the World Health Organization Health Economic Assessment Tool for walking and cycling             |R Smith, C Thomas, H Squires, T GÃ¶tschi, S Kahlmeier, E Goyder         |Public Health                     | 2021|         3|
 |The Online Elicitation of Personal Utility Functions (OPUF) tool: a new method for valuing health states                                                               |PP Schneider, B van Hout, M Heisen, J Brazier, N Devlin                |Wellcome Open Research            | 2022|         2|
-|Global report on health equity for persons with disabilities.          | Smith, Leopold, Tordrup          | World Health Organization       | 2022| 3 |
+|Global report on health equity for persons with disabilities.          | Smith, Leopold, Tordrup          | World Health Organization     | 2022| 2 |
+|Epidemiological impact of a large number of incorrect negative SARS-CoV-2 test results in South West England during September and October 2021 |  L. Hounsome, D. Herr, R. Bryant, R. Smith, L. Loman, J. Harris, U. Youhan, E. Dzene, P. Hadjipantelis, H. Long,  T. Laurence,  S. Riley, F. Cumming | Medrxiv | 2022 | 0
 
 __Note:__
 ^^ Last updated: 2022-11-30
