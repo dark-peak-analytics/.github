@@ -56,3 +56,6 @@ Interested in collaborating on a project with us, contact us via [email](contact
 
 __Note:__
 ^^ Last updated: 2024-02-08
+
+
+<div class="thinkific-product-card" data-btn-txt="More information" data-btn-txt-color="#ffffff" data-btn-bg-color="#434343" data-card-type="card" data-link-type="landing_page" data-product="3119317" data-embed-version="0.0.2" data-card-txt-color="#434343" data-card-bg-color="#ffffff" data-store-url="https://dark-peak-analytics.thinkific.com/embeds/products/show"><div class="iframe-container"></div><script type="text/javascript">document.getElementById("thinkific-product-embed") || document.write('<script id="thinkific-product-embed" type="text/javascript" src="https://assets.thinkific.com/js/embeds/product-cards-client.min.js"><\/script>');</script><noscript><a href="https://dark-peak-analytics.thinkific.com/courses/efficient-microsim" target="_blank">More information</a></noscript></div>
